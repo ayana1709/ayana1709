@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayana1709&label=Profile%20views&color=0e75b6&style=flat" alt="ayana1709" /> </p>
 
- <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="" />
+ <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="" align="right" width="400"/>
 
 
 - 🌱 I’m currently learning **Flutter**
