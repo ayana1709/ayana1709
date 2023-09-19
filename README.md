@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg)](https://rishavchanda.io)
+<!--[![MasterHead](https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg)](https://rishavchanda.io)-->
 
 
 <h1 align="center">Hi 👋, I'm Ayana Basha</h1>
