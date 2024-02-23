@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ayanabashachali@gmail.com**
 
-- ⚡ Fun fact **Headphones can increase the bacteria in your ears.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
