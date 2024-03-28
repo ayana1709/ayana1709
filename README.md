@@ -12,7 +12,7 @@
  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="" align="right" width="400"/>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 📝 I regularly write articles on [linkedin](linkedin)
 
