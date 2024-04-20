@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [linkedin](linkedin)
 
-- 💬 Ask me about **React, Node, WordPress**
+- 💬 Ask me about **React, Laravel, Tailwind css, and WordPress**
 
 - 📫 How to reach me **ayanabashachali@gmail.com**
 
