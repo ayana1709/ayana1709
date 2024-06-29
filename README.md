@@ -8,7 +8,7 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 - 🌱 I’m currently learning advanced techniques in React and Laravel, focusing on state management and performance optimization.
 - 👯 I’m looking to collaborate on open source projects related to web development and SaaS applications.
 - 💬 Ask me about anything related to Laravel, React, Inertia.js, and Tailwind CSS.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: ayanabashachali@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
 
@@ -34,20 +34,22 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 - **Job Postings**: Displaying job postings on the HR dashboard with a card layout for applicants.
 - **Training and Development**: Adding training and development features, allowing user selection and notification.
 
-### Other Projects
-- **[Project Name]**: Brief description of another significant project you have worked on.
-- **[Project Name]**: Brief description of another significant project you have worked on.
+### Rekik Art Gallery
+- **Project Overview**: Developed a comprehensive art gallery platform to showcase and manage art pieces using WordPress. This project involved intricate UI/UX design and advanced features for user interaction and management.
+- **Technologies Used**: WordPress
+- **Key Features**: Implemented features such as user authentication, art piece upload and management, interactive galleries, and more.
+- **Live Demo**: [rekikartgallery.com](http://rekikartgallery.com/)
 
-## 📈 GitHub Stats
+### Geletu Machinery
+- **Project Overview**: An e-commerce website for showcasing and selling modified machines and importing machinery by order. The platform facilitates a seamless buying experience for customers.
+- **Technologies Used**: MERN (MongoDB, Express.js, React, Node.js)
+- **Key Features**: Implemented features such as product listing, shopping cart, order management, and customer support.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/ayuba123)
+- [Twitter](https://twitter.com/ayanabasha)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
 
