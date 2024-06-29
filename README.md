@@ -6,11 +6,9 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 - 🔭 I’m currently working on an HRMS project integrating various features like payroll, payslip generation, employee notifications, and chat functionalities.
 - 🌱 I’m currently learning advanced techniques in React and Laravel, focusing on state management and performance optimization.
-- 👯 I’m looking to collaborate on open source projects related to web development and SaaS applications.
+- 👯 I’m looking to collaborate on open source projects related to web development .
 - 💬 Ask me about anything related to Laravel, React, Inertia.js, and Tailwind CSS.
 - 📫 How to reach me: ayanabashachali@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and playing strategy games in my free time.
 
 ## 🛠️ Technologies & Tools
 
@@ -21,6 +19,7 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
