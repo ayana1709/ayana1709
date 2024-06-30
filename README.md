@@ -52,12 +52,13 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana170&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
+
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
 
 
 ## 🥧 GitHub Contributions
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana1709&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
