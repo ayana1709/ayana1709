@@ -51,7 +51,7 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana1709&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana170&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
 
 
 ## 🥧 GitHub Contributions
