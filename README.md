@@ -55,6 +55,8 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 ## 🥧 GitHub Contributions
 
+
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
 ![GitHub Contrib
 ## 📫 Let's Connect
 
