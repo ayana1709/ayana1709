@@ -30,7 +30,7 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 <br>
 <div align=center>
   <img width=200 height=130  src="https://github-contribution-stats.vercel.app/api/?username=ayana1709"  />
-  <img width=300  height=150  src="https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true"/>
+  <img width=300  height=146  src="https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true"/>
   <img width=250  height=135  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayana1709&layout=compact&hide_border=true"  />
   
   
