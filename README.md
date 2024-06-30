@@ -51,13 +51,14 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayana1709&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana1709&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
+
 
 ## 🥧 GitHub Contributions
 
 
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
-![GitHub Contrib
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayuba123)
