@@ -44,7 +44,18 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 - **Technologies Used**: MERN (MongoDB, Express.js, React, Node.js)
 - **Key Features**: Implemented features such as product listing, shopping cart, order management, and customer support.
 
+## 📈 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
+
+## 🥧 GitHub Contributions
+
+![GitHub Contrib
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayuba123)
