@@ -48,16 +48,17 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayana1709&layout=compact&hide_border=true)
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
 
 ## 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana170&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)
 
-
 ## 🥧 GitHub Contributions
 
 
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
+
+
 
 ## 📫 Let's Connect
 
