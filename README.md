@@ -23,26 +23,13 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 📫 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuba123)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayanabasha)
 ## 📝 Projects
 
-### HRMS Project
-- **Payroll Feature**: Adding payroll functionalities using Laravel Breeze with React and Inertia.js, styled with Tailwind CSS.
-- **Payslip Generation**: Implementing payslip generation, viewing, and exporting functionalities.
-- **Employee Notifications**: Enabling notifications for employees and department managers regarding payroll updates.
-- **Chat Feature**: Integrated chat functionality with file uploads and a sidebar for user selection, similar to Telegram web app.
-- **Job Postings**: Displaying job postings on the HR dashboard with a card layout for applicants.
-- **Training and Development**: Adding training and development features, allowing user selection and notification.
 
-### Rekik Art Gallery
-- **Project Overview**: Developed a comprehensive art gallery platform to showcase and manage art pieces using WordPress. This project involved intricate UI/UX design and advanced features for user interaction and management.
-- **Technologies Used**: WordPress
-- **Key Features**: Implemented features such as user authentication, art piece upload and management, interactive galleries, and more.
-- **Live Demo**: [rekikartgallery.com](http://rekikartgallery.com/)
-
-### Geletu Machinery
-- **Project Overview**: An e-commerce website for showcasing and selling modified machines and importing machinery by order. The platform facilitates a seamless buying experience for customers.
-- **Technologies Used**: MERN (MongoDB, Express.js, React, Node.js)
-- **Key Features**: Implemented features such as product listing, shopping cart, order management, and customer support.
 
 ## 📈 GitHub Stats
 
@@ -54,32 +41,14 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-ayana1709.vercel.app/?user=ayana1709&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-ayana1709.vercel.app/api?username=ayana1709&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-
-## 🥧 GitHub Contributions
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayana1709&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayana1709/ayana1709/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
 
-## 📫 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuba123)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayanabasha)
+
+
+
+
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
 
