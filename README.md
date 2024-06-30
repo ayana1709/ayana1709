@@ -27,26 +27,14 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuba123)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayanabasha)
-## 📝 Projects
 
 
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayana1709&layout=compact&hide_border=true)
-
-
-## 📊 GitHub Activity
-
-
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=ayana1709)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayana1709&layout=compact&hide_border=true"  />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true"/>
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayana1709&layout=compact&hide_border=true"  />
   <img width=300 src="https://github-contribution-stats.vercel.app/api/?username=ayana1709"  />
   
   
