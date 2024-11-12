@@ -1,11 +1,9 @@
 # Hi there, I'm AYANA BASHA 👋
 
-I'm a seasoned software developer with a passion for creating efficient and innovative solutions. With years of experience in web development, particularly with Laravel and React, I enjoy tackling challenging projects and continuously learning new technologies. Welcome to my GitHub profile!
-
+I'm a seasoned software developer with a passion for creating efficient and innovative solutions. With  4 years of experience in web development, particularly with Laravel and React, I enjoy tackling challenging projects and continuously learning new technologies.
 ## 🚀 About Me
 
-- 🔭 I’m currently working on an HRMS project integrating various features like payroll, payslip generation, employee notifications, and chat functionalities.
-- 🌱 I’m currently learning advanced techniques in React and Laravel, focusing on state management and performance optimization.
+
 - 👯 I’m looking to collaborate on open source projects related to web development .
 - 💬 Ask me about anything related to Laravel, React, Inertia.js, and Tailwind CSS.
 - 📫 How to reach me: ayanabashachali@gmail.com
@@ -43,5 +41,5 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
+
 
