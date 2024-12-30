@@ -1,7 +1,4 @@
-# Hi there, I'm AYANA BASHA 👋
-## 🚀 About Me
-
-
+# I'm Ayana Basha 
 - 👯 I’m looking to collaborate on open source projects related to web development .
 - 💬 Ask me about anything related to Laravel, React, Inertia.js, and Tailwind CSS.
 - 📫 How to reach me: ayanabashachali@gmail.com
