@@ -1,6 +1,4 @@
 # Hi there, I'm AYANA BASHA 👋
-
-I'm a seasoned software developer with a passion for creating efficient and innovative solutions. With  4 years of experience in web development, particularly with Laravel and React, I enjoy tackling challenging projects and continuously learning new technologies.
 ## 🚀 About Me
 
 
@@ -23,16 +21,6 @@ I'm a seasoned software developer with a passion for creating efficient and inno
 
 
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=200 height=130  src="https://github-contribution-stats.vercel.app/api/?username=ayana1709"  />
-  <img width=300  height=146  src="https://github-readme-stats.vercel.app/api?username=ayana1709&show_icons=true&hide_border=true"/>
-  <img width=250  height=135  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayana1709&layout=compact&hide_border=true"  />
-  
-  
-</div>
 
 
 
