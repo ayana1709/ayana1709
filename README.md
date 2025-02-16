@@ -1,5 +1,5 @@
 # I'm Ayana Basha 
-- 👯 I’m looking to collaborate on open source projects related to web development .
+- 👯 I’m looking to collaborate on open source projects related to 
 - 💬 Ask me about anything related to Laravel, React, Inertia.js, and Tailwind CSS.
 - 📫 How to reach me: ayanabashachali@gmail.com
 
