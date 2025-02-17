@@ -1,6 +1,6 @@
 # I'm Ayana Basha 
 
-- 💬 Ask me about anything related to Web Develpment ,Laravel, React, Inertia.js, and Tailwind CSS.
+- 💬 Ask me about anything related to Web Develpment. Laravel, React, Inertia.js, and Tailwind CSS.
 - 📫 How to reach me: ayanabashachali@gmail.com
 
 ## 🛠️ Technologies & Tools
