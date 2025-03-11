@@ -1,7 +1,5 @@
 # I'm Ayana Basha 
-
-- 💬 Ask me about anything related to Web Development: Laravel, React, Inertia.js, and Tailwind CSS.
-- 📫 How to reach me: ayanabashachali@gmail.com
+Passionate about building scalable and user-friendly applications. Skilled in frontend and backend development using React, TypeScript, Laravel, Node.js, and Tailwind CSS. Experienced in mobile app development with Flutter and React Native. Always exploring new technologies to create efficient and modern solutions.
 
 ## 🛠️ Technologies & Tools
 
