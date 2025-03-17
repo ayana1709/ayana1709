@@ -1,5 +1,5 @@
 # I'm Ayana Basha 
-Passionate about building scalable and user-friendly applications. Skilled in frontend and backend development using React, TypeScript, Laravel, Node.js, and Tailwind CSS. Experienced in mobile app development with Flutter. Always exploring new technologies to create efficient and modern solutions.
+Passionate about building scalable and user-friendly applications. Skilled in frontend and backend development using React, TypeScript, Laravel,  and Tailwind CSS. Experienced in mobile app development with Flutter. Always exploring new technologies to create efficient and modern solutions.
 
 ## 🛠️ Technologies & Tools
 
